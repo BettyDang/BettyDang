@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Betty</h1>
 <h3 align="center">A passionate Data Analyst constantly learning new things</h3>
 
-- 🔭 I’m currently working on **School Portal System — lets students view assignments submitted by teachers, similar to Omnivox (without Lea Portal)**
+- 🔭 I’m currently working on 3 Projects
+     - **School Portal System — lets students view assignments submitted by teachers, similar to Omnivox (without Lea Portal)**
 
-- 🔭 I’m currently working on **Pet Shop App — Android app with Admin and Customer panels, including CRUD operations and payments.**
+    - **Pet Shop App — Android app with Admin and Customer panels, including CRUD operations and payments.**
  
-- 🔭 I’m currently working on **Animal Clinic Management System — CRUD operations for Secretary, Veterinarian, Administration, and Pets.**
+    - **Animal Clinic Management System — CRUD operations for Secretary, Veterinarian, Administration, and Pets.**
 
 - 🌱 I’m currently learning **Swift, Java, C# and Firebase**
 
