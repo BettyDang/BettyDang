@@ -3,14 +3,13 @@
 <h3 align="center">「 💻 Aspiring Software Developer • 🌙 Coding-in-Training • ✨ Anime-Coded 」</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/6XrQF6C.gif" width="350" alt="cyber anime girl"/>
+  <img src="https://github.com/user-attachments/assets/11a57e21-a14c-42cf-9860-515e0398ae06" width="350">
 </p>
 
 <br/>
 
 <!-- Quick Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-pink?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Currently%20Learning-Swift%20%7C%20Java%20%7C%20C%23%20%7C%20Firebase-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-blue?style=for-the-badge" />
 </p>
@@ -25,21 +24,15 @@ Currently working on multiple projects across **web**, **mobile**, and **desktop
 
 📍 *Based in Montreal, Canada*  
 🎓 *Looking for an internship starting **May 2026***  
-💬 *Reach me anytime at:* **bettyx33_@hotmail.com**
 
 ---
 
 ## 🚀 **Current Projects**
 Here’s what I’m building right now:
 
-- 📘 **UniTrack**  
-  A platform where students can view assignments given by teachers — inspired by Omnivox (without LEA Portal).
+📖 **Recipes Tracker (IOS)**  
+An app where users can share their favorite recipes and quickly find nearby grocery stores, along with their opening hours and current flyers.
 
-- 🐾 **Petify**  
-  Android application with **Admin + Customer panels**, including CRUD operations & payment integration.
-
-- 🐶 **Animal Clinic Care**  
-  CRUD operations for **Secretary**, **Veterinarian**, **Administration**, and **Pets**.
 
 ---
 
@@ -62,14 +55,6 @@ Here’s what I’m building right now:
   <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,androidstudio,visualstudio,vscode,git,github" />
   <br/>
   <img src="https://skillicons.dev/icons?i=figma,photoshop,wordpress,linux" />
-</p>
-
----
-
-## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BettyDang&show_icons=true&theme=rose_pine" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BettyDang&layout=compact&theme=rose_pine" height="160" />
 </p>
 
 ---
