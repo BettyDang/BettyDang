@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center"><span style="color:#a020f0;">🦋 Betty Dang</span></h1>
+<h1 align="center"><span style="color:#a020f0;">🌙 Betty Dang 🌙</span></h1>
 <h3 align="center">「 💻 Aspiring Software Developer • 🌙 Coding-in-Training • ✨ Anime-Coded 」</h3>
 
 <p align="center">
