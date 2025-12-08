@@ -1,23 +1,84 @@
-<h1 align="center">Hi 👋, I'm Betty</h1>
-<h3 align="center">A passionate Data Analyst constantly learning new things</h3>
+<!-- Banner / Header -->
+<h1 align="center">✨ Hi, I'm <strong>Betty</strong> ✨</h1>
+<h3 align="center">💻 Computer Science Student | 🌱 Aspiring Software Developer | 📊 Learning Every Day</h3>
 
-- 🔭 I’m currently working on 3 Projects
-     - **School Portal System — lets students view assignments submitted by teachers, similar to Omnivox (without Lea Portal)**
+<br/>
 
-    - **Pet Shop App — Android app with Admin and Customer panels, including CRUD operations and payments.**
- 
-    - **Animal Clinic Management System — CRUD operations for Secretary, Veterinarian, Administration, and Pets.**
-
-- 🌱 I’m currently learning **Swift, Java, C# and Firebase**
-
-- 👨‍💻 All of my projects are available at [https://github.com/BettyDang](https://github.com/BettyDang)
-
-- 📫 How to reach me **bettyx33_@hotmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/betty-dang-prog/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="betty-dang-prog/" height="30" width="40" /></a>
+<!-- Quick Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-pink?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Currently%20Learning-Swift%20%7C%20Java%20%7C%20C%23%20%7C%20Firebase-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-blue?style=for-the-badge" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+<br/>
+
+## 🌟 **About Me**
+I’m a Computer Science – Programming student at LaSalle College passionate about building useful, user-friendly, and visually appealing applications.
+
+I enjoy learning new technologies, solving real problems, and bringing creative ideas to life through code.  
+Currently working on multiple projects across **web**, **mobile**, and **desktop** development.
+
+📍 *Based in Montreal, Canada*  
+🎓 *Looking for an internship starting **May 2026***  
+💬 *Reach me anytime at:* **bettyx33_@hotmail.com**
+
+---
+
+## 🚀 **Current Projects**
+Here’s what I’m building right now:
+
+- 📘 **UniTrack**  
+  A platform where students can view assignments given by teachers — inspired by Omnivox (without LEA Portal).
+
+- 🐾 **Petify**  
+  Android application with **Admin + Customer panels**, including CRUD operations & payment integration.
+
+- 🐶 **Animal Clinic Care**  
+  CRUD operations for **Secretary**, **Veterinarian**, **Administration**, and **Pets**.
+
+---
+
+## 🌐 **Connect With Me**
+<p align="left">
+  <a href="https://linkedin.com/in/betty-dang-prog" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="mailto:bettyx33_@hotmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+</p>
+
+---
+
+## 🛠️ **Languages & Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cs,swift,javascript,php,html,css" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,androidstudio,visualstudio,vscode,git,github" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,wordpress,linux" />
+</p>
+
+---
+
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BettyDang&show_icons=true&theme=rose_pine" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BettyDang&layout=compact&theme=rose_pine" height="160" />
+</p>
+
+---
+
+## ✨ **Fun Facts**
+🌸 I love clean design & UI  
+☕ Coffee makes debugging 50% easier  
+📚 Always learning new technologies  
+💡 I believe in building with purpose  
+
+---
+
+## ⭐ **Thanks for Visiting!**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
