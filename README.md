@@ -1,6 +1,10 @@
-<!-- Banner / Header -->
-<h1 align="center">✨ Hi, I'm <strong>Betty</strong> ✨</h1>
-<h3 align="center">💻 Computer Science Student | 🌱 Aspiring Software Developer | 📊 Learning Every Day</h3>
+<!-- Header -->
+<h1 align="center"><span style="color:#a020f0;">🦋 Betty Dang</span></h1>
+<h3 align="center">「 💻 Aspiring Software Developer • 🌙 Coding-in-Training • ✨ Anime-Coded 」</h3>
+
+<p align="center">
+  <img src="https://i.imgur.com/6XrQF6C.gif" width="350" alt="cyber anime girl"/>
+</p>
 
 <br/>
 
