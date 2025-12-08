@@ -3,7 +3,7 @@
 <h3 align="center">「 💻 Aspiring Software Developer • 🌙 Coding-in-Training • ✨ Anime-Coded 」</h3>
 
 <p align="center">
-  <img width="736" height="457" alt="Image" src="https://github.com/user-attachments/assets/4f977658-5322-4878-a96b-af3a1cf75ec1" width="280">
+  <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/4f977658-5322-4878-a96b-af3a1cf75ec1">
 </p>
 
 <br/>
