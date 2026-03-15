@@ -25,6 +25,10 @@ Currently working on multiple projects across **web**, **mobile**, and **desktop
 📍 *Based in Montreal, Canada*  
 🎓 *Looking for an internship starting **May 2026***  
 
+<a href="https://bettydang.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-Website-purple?style=for-the-badge&logo=google-chrome" />
+</a>
+
 ---
 
 ## 🚀 **Current Projects**
@@ -48,13 +52,31 @@ An app where users can share their favorite recipes and quickly find nearby groc
 
 ---
 
-## 🛠️ **Languages & Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cs,swift,javascript,php,html,css" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,androidstudio,visualstudio,vscode,git,github" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,wordpress,linux" />
+# 🛠️ Tech Stack
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cs,swift,javascript,php" />
+</p>
+
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,wordpress" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />
+</p>
+
+### ⚙️ Tools & IDEs
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,git,github,linux" />
+</p>
+
+### 🎨 Design
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop" />
 </p>
 
 ---
