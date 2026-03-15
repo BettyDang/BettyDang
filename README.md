@@ -25,7 +25,7 @@ Currently working on multiple projects across **web**, **mobile**, and **desktop
 📍 *Based in Montreal, Canada*  
 🎓 *Looking for an internship starting **May 2026***  
 
-<a href="https://bettydang.github.io](https://bettydang.github.io/Portfolio/">
+<a href="https://bettydang.github.io/Portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-Website-purple?style=for-the-badge&logo=google-chrome" />
 </a>
 
