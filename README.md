@@ -34,9 +34,16 @@ Currently working on multiple projects across **web**, **mobile**, and **desktop
 ## 🚀 **Current Projects**
 Here’s what I’m building right now:
 
-📖 **Recipes Tracker (IOS)**  
-An app where users can share their favorite recipes and quickly find nearby grocery stores, along with their opening hours and current flyers.
+💰 **Personal Finance & Budget Tracker (Web App)**  
+A full-stack personal finance application that helps users manage their income, expenses, budgets, savings goals, and debt. It includes interactive dashboards, monthly and bi-weekly reports, recurring transactions, and data visualization to provide a clear overview of personal finances.
 
+---
+
+## 🌱 Currently Learning
+
+- ☁️ AWS Cloud Practitioner
+- 🏗️ Cloud fundamentals (IAM, EC2, S3, RDS, VPC)
+- 🚀 Best practices for deploying full-stack web applications
 
 ---
 
