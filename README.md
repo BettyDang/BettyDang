@@ -53,7 +53,7 @@ A full-stack personal finance application that helps users manage their income, 
   <a href="https://linkedin.com/in/betty-dang-prog" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  <a href="mailto:bettyx33_@hotmail.com">
+  <a href="mailto:betty.dang02@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </p>
