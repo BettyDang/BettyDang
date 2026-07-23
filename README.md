@@ -10,20 +10,21 @@
 
 <!-- Quick Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Currently%20Learning-Swift%20%7C%20Java%20%7C%20C%23%20%7C%20Firebase-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Currently%20Learning-AWS%20Cloud%20Practitioner%20%7C%20Swift%20%7C%20Firebase-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge" />
 </p>
 
 <br/>
 
 ## 🌟 **About Me**
-I’m a Computer Science – Programming student at LaSalle College passionate about building useful, user-friendly, and visually appealing applications.
 
-I enjoy learning new technologies, solving real problems, and bringing creative ideas to life through code.  
-Currently working on multiple projects across **web**, **mobile**, and **desktop** development.
+I'm a recent **Computer Science – Programming** graduate from **LaSalle College** with a passion for building useful, user-friendly, and visually appealing applications.
+
+I enjoy learning new technologies, solving real-world problems, and turning ideas into software through code. I've worked on projects across **web**, **mobile**, and **desktop** development, continuously expanding my skills while creating practical applications.
+
+I'm currently expanding my cloud computing knowledge by studying for the **AWS Cloud Practitioner** certification and am eager to begin my career as a **Software Developer**, where I can continue learning, collaborate with a team, and build impactful software.
 
 📍 *Based in Montreal, Canada*  
-🎓 *Looking for an internship starting **May 2026***  
 
 <a href="https://bettydang.github.io/Portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-Website-purple?style=for-the-badge&logo=google-chrome" />
@@ -63,22 +64,27 @@ A full-stack personal finance application that helps users manage their income, 
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,cs,swift,javascript,php" />
+  <img src="https://skillicons.dev/icons?i=cs,typescript,javascript,java,swift,python,php,sql" />
 </p>
 
 ### 🌐 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,wordpress" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,tailwind,supabase,wordpress" />
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,supabase,postgres" />
+</p>
+
+### ☁️ Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
 ### ⚙️ Tools & IDEs
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,git,github,linux,npm,postman" />
 </p>
 
 ### 🎨 Design
